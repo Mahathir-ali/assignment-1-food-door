@@ -51,9 +51,8 @@ h3 {
   box-shadow: 10px 10px 30px black;
   padding-left: 80px;
   padding-right: 80px;
-  margin: 60px 60px;
+  margin: 80px 80px;
   border-radius: 15px;
-  justify-content: space-around;
 }
 .box img {
   width: 100%;
